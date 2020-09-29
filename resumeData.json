@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name":"Shreyak",
+    "occupation":"Computer Engineer",
+    "description":"My Skills are Pyhton | Machine Learning  | Flutter | React JS | Blogger",
+    "image":"profilepic.jpg",
+    "image_contact":"scan.png",
+    "bio":"A detail oriented and multitasking professional with exceptional coding techniques having Bachelors in Technolgy degree in Computer Science Engineering.",
+    "contactmessage":"You can connect with me!",
+    "email": "007shreyak@gmail.com",
+    "phone": "+91 7631179607",
+    "address":{
+      "city":"Ranchi",
+      "state":"Jharkhand",
+      "zip": "834005"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/file/d/1C0eMqM0AQLBL05MxcCx7LP5u-jgjkL_P/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Shreyakkkk",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shreyak007/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Shreyakkk",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/007shreyak",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shreyakkk/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills Need Maintenance In Order To Protect Them From Rusting.",
+    "education":[
+      {
+        "school":"Karunya Institute of Technology and Sciences",
+        "degree":"Bachelor of Technology, Computer Science Engineering",
+        "graduated":"June 2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"BlockSurvey",
+        "title":"Machine Learning Engineer Intern ",
+        "years":"December 2019 - April 2020"
+      },
+      {
+        "company":"Steel Authority of India",
+        "title":"Web Developer Intern",
+        "years":"May 2018 - June 2018"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"75%"
+      },
+      {
+        "name":"Flutter",
+        "level":"70%"
+      },
+      {
+        "name":"React JS",
+        "level":"70%"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Shreyak is a very diligent and hard-working individual. While researching on any particular topic, he leaves no stone unturned. Easy to work with.",
+        "user":"Selvanath Athinathan - Machine Learning Engineer at BlockSurvey"
+      }
+    ]
+  }
+}
